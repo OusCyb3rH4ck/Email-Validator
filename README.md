@@ -5,9 +5,9 @@ A Bash script for validating email addresses using the ZeroBounce API. This scri
 
 ### If you want to use your own API for some reason, simply create an account on 'ZeroBounce.net' and in the "API Keys" section, copy your API and put it in this part of the script:
 ![imagen](https://github.com/OusCyb3rH4ck/Email-Validator/assets/158448818/893532a2-bd8f-4c41-865b-94ed9ca49642)
+###
 
 ## Installation & Usage
-
 - `git clone https://github.com/OusCyb3rH4ck/Email-Validator`
 - `cd Email-Validator`
 - `chmod +x Email-Validator.sh`
