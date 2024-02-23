@@ -11,4 +11,4 @@ A Bash script for validating email addresses using the ZeroBounce API. This scri
 - `git clone https://github.com/OusCyb3rH4ck/Email-Validator`
 - `cd Email-Validator`
 - `chmod +x Email-Validator.sh`
-- `./Email-Validator.sh
+- `./Email-Validator.sh`
